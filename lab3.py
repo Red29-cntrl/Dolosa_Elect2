@@ -73,4 +73,3 @@ joint_df.write.mode("overwrite").csv(output_path, header=True)
 # *** Stop Spark Session ***
 spark.stop()
 
-# *** May aayusin pa huhu***
